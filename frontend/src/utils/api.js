@@ -1,5 +1,5 @@
 // const BASE_URL = 'http://localhost:8000/api';
-const BASE_URL = 'https://synthdev-b.onrender.com/api';
+const BASE_URL = process.env.REACT_APP_API_URL;
 
 const getHeaders = () => {
   const token = localStorage.getItem('token');
