@@ -3,6 +3,9 @@
 A high-fidelity, production-ready fullstack software development lifecycle (SDLC) automation system. This tool provides autonomous agents that write code, resolve test failures, deploy sandboxed apps, and answer architectural queries via a Retrieval-Augmented Generation (RAG) assistant.
 
 ---
+## Link to the web application
+
+https://synthdev-fe.onrender.com
 
 ## 🛠️ Architecture & Technologies
 
