@@ -5,7 +5,7 @@ A high-fidelity, production-ready fullstack software development lifecycle (SDLC
 ---
 ## Link to the web application
 
-https://synthdev-fe.onrender.com
+[https://synthdev-fe.onrender.com](https://synthdevv.onrender.com)
 
 ## 🛠️ Architecture & Technologies
 
